@@ -1,14 +1,10 @@
-## Welcome to GitHub Pages danyal
+## Welcome to GitHub Pages
 
-ما میتوانی در این صفحه مورد های مختلف را تست کنیم برای ساخت دامنه و لینک ها تا در آینده از سایت راستچین قالب های زیبایی را در این هاست به اشتراک بگذاریم [قالب مد نظر](https://www.rtl-theme.com/buka-wordpress-theme/)
+You can use the [editor on GitHub](https://github.com/danyal7693/web.ir/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-![دانیال رضایی نژاد](src)
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<!-- You can use the [editor on GitHub](https://github.com/danyal7693/web.ir/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
-
-### Danyal
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
